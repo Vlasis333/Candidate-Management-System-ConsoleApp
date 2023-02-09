@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDataAccess", "EFDataAccess\EFDataAccess.csproj", "{622188B8-D20B-4ABF-8E40-72DEE533E6D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MavraganisConsoleApp", "MavraganisConsoleApp\MavraganisConsoleApp.csproj", "{7D332EA4-6346-4A7E-8F93-456AD651F837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{622188B8-D20B-4ABF-8E40-72DEE533E6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622188B8-D20B-4ABF-8E40-72DEE533E6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622188B8-D20B-4ABF-8E40-72DEE533E6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622188B8-D20B-4ABF-8E40-72DEE533E6D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D332EA4-6346-4A7E-8F93-456AD651F837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D332EA4-6346-4A7E-8F93-456AD651F837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D332EA4-6346-4A7E-8F93-456AD651F837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D332EA4-6346-4A7E-8F93-456AD651F837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69F8A77D-43C7-4D73-9EF8-A0B140BCA7A3}
+	EndGlobalSection
+EndGlobal
