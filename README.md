@@ -8,3 +8,11 @@ DataAccess: a class library containing the models, entities, and context for the
 MainApplication: which houses the main console application
 
 The MainApplication project allows for the management of candidate data through commands entered in the console, providing a simple and efficient way to manage candidates and their associated certificates.
+
+## Instructions
+1. Clone repository
+2. On EFDataAccess project run this command at Package Manager Console
+    - 'Update-Database'
+    - You can change the location of the database from the App.config file on both EFDataAccess and MavraganisConsoleApp.
+    - Default: localdb
+4. Run console application
