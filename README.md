@@ -11,7 +11,8 @@ The MainApplication project allows for the management of candidate data through 
 
 ## Instructions
 1. Clone repository
-2. On EFDataAccess project run this command at Package Manager Console
+2. Right click on solution and select 'Restore NuGet Packages'
+3. On EFDataAccess project run this command at Package Manager Console
     - 'Update-Database'
     - You can change the location of the database from the App.config file on both EFDataAccess and MavraganisConsoleApp.
     - Default: localdb
